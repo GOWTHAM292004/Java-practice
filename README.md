@@ -1,4 +1,4 @@
 # Java-practice
-Daily Java practice programs covering core concepts, DSA, and problem solving. will update program daily 
+Daily Java practice programs covering core concepts, DSA, and problem solving. 
 
 
